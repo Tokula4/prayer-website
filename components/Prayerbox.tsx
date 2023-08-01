@@ -8,6 +8,21 @@ const prayers = [
      info: '1) I am the Lord that healeth thee (Ex. 15:26)',
      
     },
+    {
+        prayerno: 'Prayer 21 - 30 ',
+       info: '1) I am the Lord that healeth thee (Ex. 15:26)',
+       
+      },
+      {
+        prayerno: 'Prayer 31 - 40 ',
+       info: '1) I am the Lord that healeth thee (Ex. 15:26)',
+       
+      },
+      {
+        prayerno: 'Prayer 41 - 50 ',
+       info: '1) I am the Lord that healeth thee (Ex. 15:26)',
+       
+      },
 
 
     // More products...
