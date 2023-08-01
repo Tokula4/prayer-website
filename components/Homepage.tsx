@@ -18,9 +18,9 @@ function Homepage  ( {}:props) {
     onLoopDone: () => console.log(`loop completed after 3 runs.`)
   })
   return (
-    <div className="relative items-center justify-center lg:flex xl:flex" >
+    <div className="relative h-screen sm:items-center sm:justify-center lg:flex xl:flex" >
               {/* Used frame motion for the the transition */}
-              <  motion.div className='space-y-3' 
+              <  motion.div className='space-y-3 ' 
           initial={{
       x:-500,
      opacity:0,

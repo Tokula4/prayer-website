@@ -91,7 +91,7 @@ function Prayer1to20() {
 </section>
 
 <button type="button"  className="text-white flex justify-center items-center bg-black  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">
-            <Link href="./prayer1" >Click Here</Link>
+            <Link href="./prayer2" >Next</Link>
           
           </button>
 
