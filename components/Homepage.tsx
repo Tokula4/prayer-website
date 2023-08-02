@@ -18,7 +18,7 @@ function Homepage  ( {}:props) {
     onLoopDone: () => console.log(`loop completed after 3 runs.`)
   })
   return (
-    <div className="relative h-screen sm:items-center sm:justify-center lg:flex xl:flex" >
+    <div className="relative  sm:items-center sm:justify-center lg:flex xl:flex" >
               {/* Used frame motion for the the transition */}
               <  motion.div className='space-y-3 ' 
           initial={{
@@ -40,7 +40,7 @@ function Homepage  ( {}:props) {
 
 
             <h1 className="space-y-3 text-2xl font-semibold tracking-wide text-black lg:text-5xl xl:text-7xl" >
-                <span className="block text-black uppercase bg-clip-text " > JOIN US TO PRAY  </span>
+                <span className="block text-black uppercase font-extrabold bg-clip-text " > JOIN US TO PRAY  </span>
                 <span className="block text-black uppercase bg-clip-text " > for  </span>
                 <span className="block text-black uppercase bg-clip-text " > our {text} </span>
               

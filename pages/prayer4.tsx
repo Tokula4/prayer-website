@@ -1,15 +1,15 @@
 import React from 'react'
-import Prayer1to20 from '../components/Prayer1to20'
+import Prayer61to80 from '../components/Prayer61to80'
 import Header from '../components/Header'
 import { Navbar } from '../components/Navbar'
 
-function prayer1() {
+function prayer4() {
   return (
     <div>
-       <Navbar/>
-      <Prayer1to20/>
+      <Navbar/>
+      <Prayer61to80/>
     </div>
   )
 }
 
-export default prayer1
+export default prayer4
