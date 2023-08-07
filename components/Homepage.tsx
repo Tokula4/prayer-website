@@ -47,9 +47,7 @@ function Homepage  ( {}:props) {
                 </h1>
 =======
         
-          <div>
-          <button type="button" className="text-white bg-black  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2"> <Link href="/prayers" >Click Here</Link></button>
-          </div>
+          
         </motion.div>
 
       <motion.div className="relative flex justify-center items-center  h-[300px] w-[300px]  lg:h-[400px] lg:w-[400px] transition-all  duration-500 md:inline xl:h-[650px] xl:w-[600px]"
